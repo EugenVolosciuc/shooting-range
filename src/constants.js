@@ -1,0 +1,20 @@
+export const GAME_MODES = {
+  CAMPAIGN: "CAMPAIGN",
+  NON_STOP: "NON_STOP",
+};
+
+export const EVENTS = {
+  RESIZE: "RESIZE",
+  TICK: "TICK",
+  READY: "READY",
+  CAMPAIGN_STARTED: "CAMPAIGN_STARTED",
+  NON_STOP_STARTED: "NON_STOP_STARTED",
+};
+
+export const LIGHTS_MODE = {
+  ON: "ON",
+  OFF: "OFF",
+  FLICKERING: "FLICKERING",
+};
+
+export const SHOOTING_RANGE_PLAYER_ZONE_DEPTH = 3;

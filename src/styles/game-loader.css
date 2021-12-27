@@ -1,0 +1,9 @@
+#game-loader {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#game-loader p {
+  color: white;
+}
